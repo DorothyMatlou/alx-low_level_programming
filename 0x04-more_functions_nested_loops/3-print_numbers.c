@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * print_numbes - prints numbers between 0 and 9 followed by a new line
  * Return: void
  */
+
 void print_numbers(void)
 {
 	char c;
